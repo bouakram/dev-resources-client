@@ -1,3 +1,3 @@
 export const API_BASE = process.env.API_URL || "https://devresourcesapi.onrender.com/api"
 export const API_BASE_MEDIA = process.env.API_URL_MEDIA || "https://devresourcesapi.onrender.com"
-export const TOKEN_KEY = process.env.API_KEY || "53bb164d881dfef34a58def54a9785b2a25b542cc964b0a80d34fec8ad1dd4692878b4e03fe1c48f23ab46fb3b9358ac5850ecc1f63afb96bb4d4b4cc5c771c0fc4fbc1643a2cd40da28a7cb0a469687ec3da64ce1dff8e0639f90478fbef9808166f1867660ad86f29f94ba7a0efc96f111a2248ebad14ea405ca5a1971d235"
+export const TOKEN_KEY = process.env.API_KEY || "e5354d858fe291bf4cbc241de8aac3514591ec71789312ef1a212cfdcc65ec18403dc3baee71718e895c95c76aa7fdf23d8ec83893cedd5b81ba4152d7a2143f9b48b6de451946c831138602434e0904acb47213fd14833ce2572632685cb43fc020ee68a62562f074c058809452650ea0fc1ff7308c9097313319152c19f1a7"
