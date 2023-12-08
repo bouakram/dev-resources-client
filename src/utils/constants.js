@@ -1,3 +1,3 @@
-export const API_BASE = process.env.API_URL || "http://localhost:1337/api"
-export const API_BASE_MEDIA = process.env.API_URL_MEDIA || "http://localhost:1337"
-export const TOKEN_KEY = process.env.API_KEY || "ff09033b4d5d3b0e00551b6d55a1562be67a60b455b77660f4999a33d979ba38124fa4a1faa1e9665647a2b0a8a5c7f3eedc390d489aa42c03985387eff21e036445ba58f7dff42f0ddca7277a0fa709d84c991807f46a39893d06559bf64ffbe172cdb80fbdadc5df62cb93fd3902368520414f51aa8ee2dc60da50e5bb0485"
+export const API_BASE = process.env.API_URL || "https://devresourcesapi.onrender.com/api"
+export const API_BASE_MEDIA = process.env.API_URL_MEDIA || "https://devresourcesapi.onrender.com"
+export const TOKEN_KEY = process.env.API_KEY || "53bb164d881dfef34a58def54a9785b2a25b542cc964b0a80d34fec8ad1dd4692878b4e03fe1c48f23ab46fb3b9358ac5850ecc1f63afb96bb4d4b4cc5c771c0fc4fbc1643a2cd40da28a7cb0a469687ec3da64ce1dff8e0639f90478fbef9808166f1867660ad86f29f94ba7a0efc96f111a2248ebad14ea405ca5a1971d235"
